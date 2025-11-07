@@ -11,7 +11,7 @@ import SwiftUI
 struct VerticalScrollCheckoutViewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          CheckoutView().withNavigation()
         }
     }
 }

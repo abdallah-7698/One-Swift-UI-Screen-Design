@@ -16,6 +16,11 @@
 			path = VerticalScrollCheckoutView;
 			sourceTree = "<group>";
 		};
+		3FDC5A1B2EC1E8A000F99A19 /* Coordinator */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Coordinator;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		3F0B21442EBD52C2006A9270 = {
 			isa = PBXGroup;
 			children = (
+				3FDC5A1B2EC1E8A000F99A19 /* Coordinator */,
 				3F0B214F2EBD52C2006A9270 /* VerticalScrollCheckoutView */,
 				3F0B214E2EBD52C2006A9270 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				3F0B214F2EBD52C2006A9270 /* VerticalScrollCheckoutView */,
+				3FDC5A1B2EC1E8A000F99A19 /* Coordinator */,
 			);
 			name = VerticalScrollCheckoutView;
 			packageProductDependencies = (
